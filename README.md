@@ -1,4 +1,4 @@
-# Reminder BOT Discord (English)
+# Reminder BOT Discord
 
 This bot was created to help remind you of tasks and schedule reminders for tasks that need to be repeated at certain intervals.
 
